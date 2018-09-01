@@ -5,5 +5,6 @@ POCs in jupyter notebooks
 * Titanic survival regressor
 * Simpsons characters classifier
 * Stock ethereum predictor
+* Lottery number distributions visualization
 * Holidays Crimes in Michigan (2015) study
 * Bach music generator (not started)

@@ -6,5 +6,5 @@ POCs in jupyter notebooks
 * Simpsons characters classifier
 * Stock ethereum predictor
 * Lottery number distributions visualization
-* Holidays Crimes in Michigan (2015) study
+* Holidays Crimes in Michigan (2018) study
 * Bach music generator (not started)
